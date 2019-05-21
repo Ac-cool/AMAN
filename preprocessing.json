@@ -1,0 +1,9 @@
+{
+    "data_dir": "../data/dataset/snli_1.0",
+    "embeddings_file": "../data/glove.840B.300d.txt",
+    "target_dir": "../data/preprocessed",
+
+    "lowercase": false,
+    "ignore_punctuation": false,
+    "num_words": null
+}
